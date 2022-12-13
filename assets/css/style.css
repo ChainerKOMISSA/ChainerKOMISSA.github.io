@@ -607,6 +607,18 @@ section .container {
   transition: all ease-in-out 0.3s;
 }
 
+.card{
+  text-align: center;
+  background: rgba(204, 204, 204, 0.1);
+  padding: 80px 20px;
+  transition: all ease-in-out 0.3s;
+}
+
+.card-img-top{
+  width: 100px;
+  align-self: center;
+}
+
 .services .icon-box .icon {
   margin: 0 auto;
   width: 64px;
